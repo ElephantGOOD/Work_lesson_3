@@ -1,0 +1,49 @@
+
+body{	
+	padding: 50px;
+	box-shadow: 1px 2px 10px  rgb(197, 86, 86);
+}
+.block-text-movi{
+	width: 1270px;
+}
+.text-cod-block,
+.text-color{
+	font-size: 14px;
+	color: rgb(131, 154, 18);
+}
+.block-img-vikings,
+.text-block-viking{
+	text-align: center;
+}
+.box-block  {
+	color: rgb(234, 255, 0);
+}
+.box-color-block + li{
+	color: blue;
+}
+.block-table-text-name ~ ul {
+	color: rgb(210, 84, 84);
+}
+.block-table-text-data,
+.style-text-notes > ul {
+	color: rgb(70, 183, 244);
+}
+.style-development,
+.style-text-notes > p{
+	color: aquamarine;
+}
+.style-development-text > h4{
+	color: rgb(243, 88, 5);
+}
+.style-music > h4{
+	color: rgb(48, 22, 241);
+}
+.style-music-text > p {
+	color: rgb(233, 14, 14);
+}
+.style-text-reaction > div{
+	color: rgb(167, 167, 179);
+}
+.text-color a {
+	color: coral;
+}
